@@ -16,7 +16,7 @@ mahasiswa mampu :
 
 - version npm 11.19.1
 
-<img src="versi npm.jpeg" >
+<img src="image.png" width="50%" >
 
 2. membuat aplikasi mobile (react native)
 - untuk referensi dokumen resmi milik expo
@@ -27,7 +27,7 @@ mahasiswa mampu :
 - npx create-expo-app pertemuan2 --template blank
 - project baru :
 
-<img src="project ready.png" width="50%">
+<img src="image-1.png" width="50%">
 
 3. menjalankan aplikasi mobile (react native)
 - cd pertemuan-2
